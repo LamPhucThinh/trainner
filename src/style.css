@@ -1,0 +1,15 @@
+.App {
+  padding-left: 20px ;
+}
+
+.input{
+  padding: 30px;
+}
+.myInput{
+  height: 20px;
+  width: 200px;
+}
+.addBtn{
+  height: 25px;
+  width: 45px;
+}
